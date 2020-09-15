@@ -3,14 +3,14 @@ Team Mag14's response to the KSU Virtual Hackathon 2020
 
 Challange Description
 
-/nAspect 1 - Policy Holders
+Aspect 1 - Policy Holders
   *Wants a easily Accesible survey where it doesnt take too much of their time from their patience
-/nAspect 2 - Administrators/ Manager Position
+Aspect 2 - Administrators/ Manager Position
   *Wants to minimize risk that they know of and fix it. Including ones they don't know of.
-/nAspect 3 Internal Risk Assesment Team
+Aspect 3 Internal Risk Assesment Team
   *Quickly and effeciently gather information to create a polished list of recommendation to the Aspects 1&2
 
-/nTool we should create
+Tool we should create
   *Probably have a omnichannel source of communications 
   *Needs to multifacted tool system
   *Needs to keep track of prevouse Assements and feedback to show improvment on a visual graph

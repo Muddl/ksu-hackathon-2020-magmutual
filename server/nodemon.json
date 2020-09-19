@@ -1,0 +1,9 @@
+{
+  "env": {
+    "DB_USER": "team_nine",
+    "DB_PASSWORD": "Magteamnine",
+    "DB_HOST": "35.245.168.6",
+    "DB_PORT": "5432",
+    "DB_DATABASE": "postgres"
+  }
+}
